@@ -17,7 +17,7 @@ const Results = () => {
   return (
     <>
       <Navbar login={true} />
-      <main className="mx-auto container py-20">
+      <main className="mx-auto container py-20 px-4">
         <h2 className="font-bold text-2xl text-blue-500">
           Results of possible Solution to your car
         </h2>
